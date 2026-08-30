@@ -8,19 +8,32 @@
 
 ---
 
-### 🧰 Tech Stack & Expertise
+### 🧰 Tech Stack & Tools
 
-**Core Backend:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <!-- Backend Core -->
+  <a href="https://github.com/Mahdiyar-SHZ">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python&theme=dark" alt="Backend Stack" />
+  </a>
+  <br>
+  <!-- Environment & Security (Fedora & Linux Focus) -->
+  <a href="https://github.com/Mahdiyar-SHZ">
+    <img src="https://skillicons.dev/icons?i=fedora,linux,git,github,bash,vscode&theme=dark" alt="Environment Stack" />
+  </a>
+  <br>
+  <!-- Client-Side (Utility) -->
+  <a href="https://github.com/Mahdiyar-SHZ">
+    <img src="https://skillicons.dev/icons?i=js,react&theme=dark" alt="Client Stack" />
+  </a>
+</p>
 
-**Environment & Security:**
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-**Client-Side Tools (Utility):**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=51A2DA&center=true&vCenter=true&width=430&lines=%24+sudo+dnf+install+backend-master;%24+git+push+origin+main+%F0%9F%9A%80" alt="Terminal Typing Animation" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdiyar-SHZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&icon_color=51A2DA&text_color=c0caf5&title_color=7aa2f7" alt="GitHub Stats" />
+</p>
 

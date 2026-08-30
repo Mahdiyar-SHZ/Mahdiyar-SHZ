@@ -1,4 +1,6 @@
-# Hi, I'm Mahdiyar 👋
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=51A2DA&center=true&vCenter=true&width=430&lines=%24+HI+My+Name+Is+Mahdiyar+ShamaeilZadeh;%24+git+push+origin+main+%F0%9F%9A%80" alt="Terminal Typing Animation" />
+</div>
 
 ### 🎯 About Me
 - 🐘 **Core Focus:** Backend Architecture & Server-Side Logic
@@ -28,12 +30,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=51A2DA&center=true&vCenter=true&width=430&lines=%24+sudo+dnf+install+backend-master;%24+git+push+origin+main+%F0%9F%9A%80" alt="Terminal Typing Animation" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdiyar-SHZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&icon_color=51A2DA&text_color=c0caf5&title_color=7aa2f7" alt="GitHub Stats" />
-</p>
-

@@ -49,8 +49,8 @@ international projects.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Simple Cms**]([link](https://github.com/Mahdiyar-SHZ/simple-laravel-cms)) | Simple Laravel CMS for managing the pages of a business introduction website. | Laravel, blade |
-| [**Secure Contact**]([link](https://github.com/Mahdiyar-SHZ/SecureContact)) | Contact manager that stores phone numbers encrypted in the database. | Laravel,React,Inertia.js, MySQL |
+| [**simple-laravel-cms**](https://github.com/Mahdiyar-SHZ/simple-laravel-cms) | Simple Laravel CMS for managing the pages of a business introduction website. | Laravel, Blade |
+| [**SecureContact**](https://github.com/Mahdiyar-SHZ/SecureContact) | Contact manager that stores phone numbers encrypted in the database. | Laravel, React, Inertia.js, MySQL |
 
 ## 📈 Currently
 

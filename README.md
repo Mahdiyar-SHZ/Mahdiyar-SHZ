@@ -58,9 +58,3 @@ international projects.
 - 📚 Improving my English and technical communication
 - 🔐 Exploring secure coding fundamentals
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdiyar-SHZ&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyar-SHZ&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
-</p>
